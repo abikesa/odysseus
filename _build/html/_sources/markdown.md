@@ -33,6 +33,7 @@ It will be rendered in a special box when you build your book.
 
 Here is an inline directive to refer to a document: {doc}`markdown-notebooks`.
 
+<iframe src="https://abikesa.github.io/quickdeploy/" width="100%" height="800px" style="border:none;"></iframe>
 
 ## Citations
 
