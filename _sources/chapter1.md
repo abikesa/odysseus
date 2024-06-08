@@ -1,8 +1,13 @@
 # Nonparametric 
 
-![](https://abikesa.github.io/flow/_images/jamascript.png)
-
 <iframe src="https://abikesa.github.io/flow/abikesa_stata.html" width="100%" height="800px" style="border:none;"></iframe>
+
+<Details>
+   <Summary>Contra Semiparametric</Summary>
+
+<iframe src="https://abikesa.github.io/quickdeploy/" width="100%" height="800px" style="border:none;"></iframe>
+
+</Details>
 
 ## Limitation
 
@@ -21,13 +26,6 @@ Johns Hopkins Precision Medicine Analytics Platform (PMAP)
 ```
 
 Let's compare the two approaches discussed thus far: {doc}`markdown-notebooks`.
-
-<Details>
-   <Summary>Semiparametric</Summary>
-
-<iframe src="https://abikesa.github.io/quickdeploy/" width="100%" height="800px" style="border:none;"></iframe>
-
-</Details>
 
 ## Citations
 
