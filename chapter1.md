@@ -19,10 +19,8 @@ For more on this, see [the MyST Markdown Overview](https://jupyterbook.org/conte
 
 Semiparametric methods are used to report relative risk estimates for groups compared with a reference group. They add a layer of complexity in a multivariable context, but also remain limited to scientific inferences. For purposes of informed consent in a specific clinical scenario, a **webApp for personalized** risk is the way forward.
 
-[PMAP](https://pm.jh.edu) is once such approach:
-
 ```{note}
-Johns Hopkins Precision Medicine Analytics Platform (PMAP)
+Johns Hopkins Precision Medicine Analytics Platform ([PMAP](https://pm.jh.edu))
 ```
 
 Let's compare the two approaches discussed thus far: {doc}`markdown-notebooks`.
